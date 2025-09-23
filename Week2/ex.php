@@ -1,6 +1,3 @@
-
-
-
 <h1>This is my first PHP file</h1>
 <?php
 // http://localhost:8008/?x=5&y=10
